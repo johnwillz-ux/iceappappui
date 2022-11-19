@@ -1,3 +1,3 @@
 # ICE CREAM APP UI
 
-![icecreamui](icecreamui.jpeg)
+![icecreamui](icecreamui.png)
