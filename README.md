@@ -1,4 +1,4 @@
-# icecreamui
+# ICE CREAM APP UI
 
 A new Flutter project.
 
