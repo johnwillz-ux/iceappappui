@@ -99,17 +99,7 @@ class _HomePageState extends State<HomePage> {
               ),
             ),
 
-            Padding(
 
-              padding: const EdgeInsets.symmetric(horizontal: 38.0,),
-              child: Row(
-
-                children: [
-
-                  const Text('Come and Là Ice Cream in our shop it is sweet' ),
-                ],
-              ),
-            ),
 
             const SizedBox(height: 24),
 
